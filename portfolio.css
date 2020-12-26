@@ -1,0 +1,57 @@
+.color-purple{
+	color: #8845f4;
+}
+body{
+	font-family: sans-serif;
+	color: #777777;
+	line-height: 30px;
+}
+.container{
+	padding-left: 5%;
+	display: inline-block;
+}
+#leftpad{
+	padding-left: 50px;
+	padding-top: 25px;
+	font-size: 1.8em;
+}
+.uti{
+	padding-left: 50px;
+	padding-top: 5px;
+}
+.primary-btn{
+	background: #8845f4;
+	border-radius: 20px;
+	padding: 13px 42px 13px 42px;
+	color: white;
+	text-decoration: none; 
+}
+.right-half-width{
+	width: 50%;
+	float: left;
+}
+.left-half-width{
+	width: 50%;
+	float: right; 
+}
+.side-img{
+	width:50%;
+	padding-left: 25%;
+	padding-top: 10%;
+}
+.side-img2{
+	width: 80%;
+	height: 300px;
+	padding-left: 20px;
+}
+.experiences{
+	padding: 30px;
+	margin: 30px;
+	background-color: rgb(238, 251, 255);
+	border-radius: 20px;
+	width: 90%;
+}
+.experience-item{
+	padding: 10px;
+	border-left: 1px solid rgba(137, 130, 247, .2);
+}
